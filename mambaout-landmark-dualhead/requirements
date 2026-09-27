@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+monai
+nibabel
+numpy
+pandas
+scipy
+einops
+tqdm
+matplotlib
+torchsummary
